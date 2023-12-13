@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "testamp6d96fab7": {}
+      },
+      "api": {
+        "testamp": {}
+      },
+      "storage": {
+        "imgstorage": {}
       }
     }
   }
